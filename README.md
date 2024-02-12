@@ -1,4 +1,4 @@
-## code for NestedMAML (AAAI 2022)
+## Code for NestedMAML (AAAI 2022)
 
 1. Synthetic Regression
 2. Task-level Reweight
